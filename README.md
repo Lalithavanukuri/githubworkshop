@@ -12,3 +12,9 @@
 ***bold and italic type fonts**
 
 ~~this is a line~~
+
+* fruits
+  * apple
+  * grape
+  * banana
+   
