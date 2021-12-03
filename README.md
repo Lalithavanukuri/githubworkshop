@@ -9,5 +9,6 @@
 
 **bold type of font**
 
-***bold and italic type fonts***
-!! this!!
+***bold and italic type fonts**
+
+~~this is a line~~
